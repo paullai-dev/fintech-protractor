@@ -2,7 +2,7 @@
 
 This is an example showing Protractor end-to-end tests for a non-angular application that includes a page object and a simple helper method.
 
-The application being tested is a responsive website. 
+The application being tested is a website. 
 
 Mobile emulation is also included as a part of the implementation.
 
