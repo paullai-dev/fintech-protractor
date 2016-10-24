@@ -1,4 +1,4 @@
-# FinTech-protractor
+# fintech-protractor
 
 This is an example showing Protractor end-to-end tests for a non-angular application that includes a page object and a simple helper method.
 
